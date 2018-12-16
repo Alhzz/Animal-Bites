@@ -1,5 +1,5 @@
 # Animal-Bites Project
- It's a project that analyse about animals that bite people in 1985-2017 near Louisville, Kentucky, USA.
+⇥ It's a project that analyse about animals that bite people in 1985-2017 near Louisville, Kentucky, USA.
 It's over 9000 times of animal bites. So we make this project to avoid from animal bite.
 
 # Author
