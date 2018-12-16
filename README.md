@@ -21,5 +21,5 @@ Analyse animal that bite people and see after 2000s is it different or not.
 |![alt text](https://github.com/Alhzz/Animal-Bites/blob/master/member/181130_0068.jpg "์Nattapong Sainak ID: 61070054")| Nattapong Sainak  | 61070054 |
 
 #### More Information
-*Medium-Link: https://medium.com/@61070064/animal-bites-project-71560278ee1a
-*Video-Link: https://www.youtube.com/watch?v=qOobDW9FMTI&feature=youtu.be
+* Medium-Link: https://medium.com/@61070064/animal-bites-project-71560278ee1a
+* Video-Link: https://www.youtube.com/watch?v=qOobDW9FMTI&feature=youtu.be
