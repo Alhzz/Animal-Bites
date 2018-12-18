@@ -11,11 +11,18 @@ It's over 9000 times of animal bites. So we make this project to avoid from anim
 # What we do?
 * Analyse which is the most animal that bite people.
 * Analyse how the most animal that bite look like.
-* Analyse which duration that most animal bite people.
+* Analyse what species of the animal that bite people the most.
+* Analyse how species of the animal that bite people the most look like.
 
 # What we use?(Libraries and Modules)
 * Pandas
 * Pygal 
+
+# What we got?
+* Most of animal that bite people is dog.
+* The most dog that bite people is brown.
+* Species of the dog that bite people the most is pitbull.
+* The most pitbull that bite people is brown.
 
 # Group member
 | Picture   | Name           |Student ID  |
