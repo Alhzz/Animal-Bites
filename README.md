@@ -20,9 +20,9 @@ It's over 9000 times of animal bites. So we make this project to avoid from anim
 
 # What we got?
 * Most of animal that bite people is dog.
-* The most dog that bite people is brown.
-* Species of the dog that bite people the most is pitbull.
-* The most pitbull that bite people is brown.
+* Most dogs that bite people have brown coat color.
+* Most species of dog that bite people is Pit bull.
+* Most pit bull that bite people has brown coat color.
 
 # Group member
 | Picture   | Name           |Student ID  |
